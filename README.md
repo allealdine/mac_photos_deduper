@@ -97,7 +97,7 @@ All changes are safe and handled through the official Apple API.
 
 Built by Alle Aldine — because Photos.app needed a smarter cleanup button.
 
-Medium blog post: [Coming soon]
+Medium blog post: https://medium.com/@alle.aldine/free-script-to-clean-duplicates-in-apple-photos-no-paid-app-needed-91ab0f224b1c
 
 ---
 
