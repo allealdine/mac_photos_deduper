@@ -1,8 +1,4 @@
-Absolutely! Here's a complete, polished `README.md` you can use for your GitHub repo:
 
----
-
-```markdown
 # 📸 macOS Photos Deduper
 
 A Python tool to automatically delete duplicate photos and videos from the macOS Photos Library — using native Apple APIs via `pyobjc`. No risky hacks. No paid apps. Just clean results.
@@ -114,8 +110,3 @@ If you’ve got improvements, ideas, or bug reports — PRs and issues are alway
 ## 📜 License
 
 MIT License – do what you want, just don't blame me if you accidentally delete your favorite cat photo 🐱
-```
-
----
-
-Let me know your GitHub username if you want help publishing this as a repo (`mac-photos-deduper`) — or I can help generate a `LICENSE`, `.gitignore`, and ready-to-push folder too.
